@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f840e25f-c73b-48cc-8757-86cba4000472" name="11" url="http://student4.bmdemo.ru">
+        <fileTransfer host="136.243.55.88" port="22" rootFolder="/var/www/student/data/www/student4.bmdemo.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
